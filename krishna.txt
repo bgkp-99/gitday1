@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is boda
 this is ganesh
+=======
+this is seconf line[D[D[D[D[d[C[C[C[C[C[C[C[D[D
+>>>>>>> e0979b06d67ab905781b4a6f697be437cb4a76cc
